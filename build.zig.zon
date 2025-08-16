@@ -13,8 +13,8 @@
             .hash = "wayland-0.3.0-lQa1kjPIAQDmhGYpY-zxiRzQJFHQ2VqhJkQLbKKdt5wl",
         },
         .fcft = .{
-            .url = "https://git.sr.ht/~novakane/zig-fcft/archive/v2.0.0.tar.gz",
-            .hash = "fcft-2.0.0-zcx6C5EaAADIEaQzDg5D4UvFFMjSEwDE38vdE9xObeN9",
+            .url = "https://git.sr.ht/~novakane/zig-fcft/archive/v3.0.0.tar.gz",
+            .hash = "fcft-3.0.0-zcx6CxQfAAAOlHFehXv7HwRPcuo7StCjZAtapZbSB6fq",
         },
     },
 }
